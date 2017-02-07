@@ -15,7 +15,7 @@ $ go install github.com/misoton665/beer-mug
 
 ## Usage
 
-### initialize
+### Initialize
 
 ```
 $ beer-mug init
