@@ -1,10 +1,10 @@
 # beer-mug
 
-Oh My 🍺.
-
 It measure and report your working time.
 
 You become to be able to check your works and drink some happy beers.
+
+Oh My 🍺.
 
 ## Install
 
